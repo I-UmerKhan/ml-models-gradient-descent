@@ -1,2 +1,2 @@
 # ml-models-gradient-descent
-I applied gradient descent as an optimization algorithm to iteratively adjust model parameters and minimize the cost function during model training.
+Applying gradient descent involves implementing an iterative optimization algorithm that iteratively adjusts model parameters to minimize a cost function, typically associated with machine learning models. This method is fundamental for training models efficiently, especially when dealing with large datasets or complex model architectures. By implementing gradient descent, I gained insights into how optimization algorithms work under the hood, enhancing my understanding of model training processes and parameter optimization in machine learning.
